@@ -1,0 +1,27 @@
+{
+    "name": "depression in a nutshell",
+    "version": "1.1.0",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "pxt-button-combos": "github:jwunderl/pxt-button-combos#v0.0.23"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.2.6",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
